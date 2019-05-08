@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emelydeceuninckpaintings",
-    "currentPage": "Emelydeceuninckhome.html",
+    "currentPage": "work.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 110,
     "versionPublish": "4.9.7",
@@ -769,19 +769,6 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Geweldige",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-9613.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-9613-800x852.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "45X47CM",
-                "active": false
-              },
-              {
                 "tags": "Sympathieke",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -808,16 +795,68 @@
                 "active": false
               },
               {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9613.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9613-800x852.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "45X47CM",
+                "active": false
+              },
+              {
                 "tags": "Bewegende",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc-9624.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-9624-800x826.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9977.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9977-800x824.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "80X80CM",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9974.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9974-800x1001.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "100X80CM",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9982.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9982-800x1119.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "140X100CM",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9980.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9980-800x930.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "50X45CM",
                 "active": true
               }
             ]
